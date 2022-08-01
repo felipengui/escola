@@ -1,0 +1,47 @@
+.topo{
+    display: flex;
+    background-color:rgb(165, 214, 216);
+    justify-content: center;
+    border-radius: 3px;
+  }
+  
+  .topo h1{
+      align-items: center;    
+  }
+  
+  .centro{
+    margin: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+
+  
+  #form1{
+     border: 1.5px solid rgb(151, 106, 106);
+     border-radius: 5px;
+     padding: 6px;
+     padding-bottom: 10px;
+     margin-bottom: 10%;
+     height: 60%;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+  }
+
+  #form1 label{
+    font-size: 3vmin;
+  }
+ 
+
+
+  

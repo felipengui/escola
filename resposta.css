@@ -1,0 +1,29 @@
+.topo{
+    display: flex;
+    background-color:rgb(165, 214, 216);
+    justify-content: center;
+    border-radius: 3px;
+    height: 60px;
+    align-items: center;
+
+  }
+  
+ 
+  #div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .centro{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1.5px solid rgb(151, 106, 106);
+    border-radius: 5px;
+    padding: 6px;
+    padding-bottom: 10px;
+    margin-bottom: 10%;
+    
+}
